@@ -1,0 +1,49 @@
+.vo{
+
+}
+
+.pai{
+    width: 100px;
+    height: 100px;
+    background: blue;
+}
+
+.filho{
+    width: 50%;
+    height: 50%;
+    background: red;
+}
+
+
+/* UNIDADE DE MEDIDAS
+
+ABSOLUTAS
+
+    pix (pixels) 1/100 inch= 0,
+    in (inch=polegada)
+    cm/mm ( métrica)
+
+ABSOLUTAS
+
+    calcule o tamanho relativo ao elemento pai
+    vw: (view width) 1vw é 1% da largura da janela do navegador
+    vh: (view height) 1vh é 1% da altura da janela do navegador
+    em : é uma unidida relativa ao elemento pai
+    rem :é uma unidade relativo ao elemento raiz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/

@@ -1,0 +1,43 @@
+.vo{
+    font-size: 16px;
+
+}
+
+.pai{
+    width: 50vw;
+    height: 50vh;
+    background: blue;
+    color: #ffffff;
+    font-size: 32px;
+}
+
+.filho{
+    width: 50%;
+    height: 50%;
+    background: red;
+    color: #ffffff;
+    /*font-size: 0.5em;*/
+    font-size: 2rem;
+}
+
+
+/* UNIDADE DE MEDIDAS
+
+ABSOLUTAS
+
+    pix (pixels) 1/100 inch= 0,
+    in (inch=polegada)
+    cm/mm ( métrica)
+
+ABSOLUTAS
+
+    calcule o tamanho relativo ao elemento pai
+
+    vw: (view width) 1vw é 1% da largura da janela do navegador
+
+    vh: (view height) 1vh é 1% da altura da janela do navegador
+
+    em(ENPHEREMAL UNIT: UNIDADE TRANSITORIA) : é uma unidida relativa ao elemento pai
+
+    (ROOT ENPHEREMAL UNIT: UNIDADE TRANSITORIA)
+    rem :é uma unidade relativo ao elemento raiz

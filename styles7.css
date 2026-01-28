@@ -1,0 +1,50 @@
+/*CORESNO CSS
+
+FORMAS DE USO DE CORE S EX 1
+    RGB
+    -RED
+    -GREEN
+    -BLUE
+
+    -O uso das cores em rgb vao de 0 a 255 dai voce usa a proporção conforme a cor necessária
+    no caso de ausência de porcentagem ex 0,0,0 = preto..... se por 250,250,250=branbo
+
+    */
+
+h1{
+    background: rgb(255,0,0)
+
+
+}
+
+
+/*método ex 2
+HEXADECIMAL
+DECIMABASE 10)==> 0,1,2,3,4,5,6,7,8,9 PARA SE FORMAR OUTROS NUMEROS
+EX: 12,13,14...
+
+
+HEXADECIMAL(BASE 16)==> 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+SUGESTÃO DE SITE DE CORES W3SCHOOLS(TOP ESSE  SITE)
+
+tem tambem ADOBE COLOR(TOP TAMBEM)
+
+coolors esse tambem é legal
+
+tem tambem uma extensão do chrome chamada color zila
+
+*/
+
+p{
+background: #00FF00 ;
+
+
+
+}
+
+button {
+
+color: #C3A29E ;
+background:#00ff00 ;
+
+}

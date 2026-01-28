@@ -1,0 +1,16 @@
+/*CSS : ==>Folha de estilo CASCATA
+OBS: O efeito cascata se dá de cima para baixo, sendo que , a exemplo do CSS abaixo prevaleceu o blue por ser a ultima instância*/
+
+h1 {
+
+    color: red;
+
+}
+
+
+
+h1{
+
+    color: blue;
+
+}
